@@ -8,7 +8,7 @@ LPD8806 library.
 
 The strips can be obtained from adafruit.  They also have nice tutorials on the setup.
 Make sure you use a dedicated power supply with proper amperage for the strip.
-	http://www.adafruit.com/products/306
+  http://www.adafruit.com/products/306
 	
 Videos of a 5M strip in action can be found here:
 	http://www.youtube.com/watch?v=09an1RehNVQ
